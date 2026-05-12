@@ -12,25 +12,7 @@ Example:
 ```python
 permission |= read
 permission & write
-Features:
-  Read permission handling
-  Write permission handling
-  Permission value calculation
-  Binary permission checking
-  Menu-driven interaction
-Technologies Used:
-Python
-Concepts Covered:
-  Bitwise Operators
-  Conditional Statements
-  Variables
-  Loops
-Permission Management Logic
-Permission Values
-Permission	Binary Value
-Read	1
-Write	2
-Execute	4
+
 Sample Output
 ---Binary permission checker---
 Would you like to read or write?
